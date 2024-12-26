@@ -1,0 +1,57 @@
+<root>
+    <produto>
+        <codigo>001</codigo>
+        <nome>Cadeira de Escritório</nome>
+        <descricao>Cadeira com ajuste de altura e inclinação</descricao>
+        <categoria>Móveis</categoria>
+        <preco>450.00</preco>
+        <estoque>
+            <quantidade>15</quantidade>
+            <localizacao>Armazém A</localizacao>
+        </estoque>
+    </produto>
+    <produto>
+        <codigo>002</codigo>
+        <nome>Notebook Gamer</nome>
+        <descricao>Notebook com processador i7, 16GB RAM, placa gráfica RTX 3060</descricao>
+        <categoria>Eletrônicos</categoria>
+        <preco>5999.99</preco>
+        <estoque>
+            <quantidade>8</quantidade>
+            <localizacao>Armazém B</localizacao>
+        </estoque>
+    </produto>
+    <produto>
+        <codigo>003</codigo>
+        <nome>Geladeira Frost Free</nome>
+        <descricao>Geladeira com capacidade de 400 litros, inox</descricao>
+        <categoria>Eletrodomésticos</categoria>
+        <preco>3199.00</preco>
+        <estoque>
+            <quantidade>5</quantidade>
+            <localizacao>Armazém C</localizacao>
+        </estoque>
+    </produto>
+    <produto>
+        <codigo>004</codigo>
+        <nome>Smartphone Android</nome>
+        <descricao>Smartphone com tela de 6.5", 128GB de armazenamento, câmera tripla</descricao>
+        <categoria>Eletrônicos</categoria>
+        <preco>1499.90</preco>
+        <estoque>
+            <quantidade>30</quantidade>
+            <localizacao>Armazém A</localizacao>
+        </estoque>
+    </produto>
+    <produto>
+        <codigo>005</codigo>
+        <nome>Televisão 4K 55"</nome>
+        <descricao>Televisão com resolução 4K, 55 polegadas, HDR</descricao>
+        <categoria>Eletrônicos</categoria>
+        <preco>2899.00</preco>
+        <estoque>
+            <quantidade>12</quantidade>
+            <localizacao>Armazém B</localizacao>
+        </estoque>
+    </produto>
+</root>

@@ -1,0 +1,14 @@
+<items>
+    <item>
+        <name>Item 1</name>
+        <price>2197.99</price>
+    </item>
+    <item>
+        <name>Item 2</name>
+        <price>1298.99</price>
+    </item>
+    <item>
+        <name>Item 3</name>
+        <price>796.99</price>
+    </item>
+</items>
